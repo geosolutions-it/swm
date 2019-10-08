@@ -18,4 +18,4 @@ Start the development application locally:
 
 The application runs at `http://localhost:8081` afterwards.
 
-Read more on the [wiki](https://github.com/geosolutions-it/swm/wiki).
+Read more on the [wiki](https://github.com/geosolutions-it/MapStore2/wiki).
